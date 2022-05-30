@@ -37,4 +37,9 @@ Rural areas once again finished last as the total weekly fares fluctuate between
 
 With gas prices on the rise, the time to make changes and increase PyBer prices has arrived. People will be looking to leave their vehicles at home whenever possible. And this could be very beneficial for the company.  After analysis of the PyBer V. Isualize data our team has made the following recommendations:
 
-Increase the drivers in urban areas and look into lowering prices. Urban areas are where PyBer sees most of its profits and  
+Increase the drivers in urban areas and look into lowering prices. Urban areas are where PyBer sees most of its profits and becoming more competitive in urban areas is the key to higher profits for the company. People in urban areas are more willing to use alternative transportation as their drives are short and it eliminates the need to pay for parking in certain areas. Increasing the number of drivers while decreasing fares will take riders from our competitors and increase profits for the company
+
+Suburban area are steady on a weakly bases. The weekly fares never drop too low and have occasional sharp increases. People in suburban area are willing to pay high fares for our services. It would be beneficial to increase prices and keep the driver count steady in suburban areas. These changes will increase the average fare per ride and driver in the area and allow us to focus on adding drivers to urban areas.
+
+Increasing the price will and decreasing the number of drivers in rural areas will be the most beneficial approach. Total weekly profits showed that profits almost hit lower that $100 several times in rural areas. People in rural areas drive long distances and prefer to use their personal vehicles for transportation. Putting more drivers in these areas will not increase profits for the company. Increasing the average fare price will help drive up profits per ride, while taking drivers from rural areas and focusing on adding drivers in areas will be more beneficial for the company.
+
