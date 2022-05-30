@@ -18,7 +18,7 @@ However, the averages tell a different story as Rural areas as , dominated in av
 
 For the analysis of total weekly fares by city type we plotted the data across four months: January, February, March, and April.
 
-![weekly_line_plot](https://github.com/JoseEspinosaTello/PyBer_Analysis/blob/main/analysis/weekly_line_plot.png)Summary:
+![weekly_line_plot](https://github.com/JoseEspinosaTello/PyBer_Analysis/blob/main/analysis/weekly_line_plot.png)
 
 Urban:
 
